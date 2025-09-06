@@ -35,7 +35,4 @@ A **real-time competitive programming game** where two players solve coding prob
 
 ---
 
-💡 *I’m open to collaboration, learning, and contributing to open-source projects!*  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salemharwood&show_icons=true&theme=radical)
 
